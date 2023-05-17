@@ -33,6 +33,11 @@ p {
     padding: 10px;
   }
 
+  .img-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
 
 footer {
   position: relative;
